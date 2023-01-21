@@ -1,0 +1,5 @@
+// file_put_contents(app()->environmentFilePath(), str_replace(
+        //     'ENV_VARIABLE' . '=' . env('ENV_VARIABLE_VALUES'),
+        //     'ENV_VARIABLE' . '=' . ENV_VARIABLE_VALUES,
+        //     file_get_contents(app()->environmentFilePath())
+        // ));
